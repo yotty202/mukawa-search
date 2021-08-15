@@ -8,10 +8,10 @@
     ],
     "license": "MIT",
     "require": {
-        "php": "^7.3.2",
+        "php": "^7.3.24",
         "electrolinux/phpquery": "^0.9.6",
         "fideloper/proxy": "^4.0",
-        "guzzlehttp/guzzle": "^7.0.1",
+        "guzzlehttp/guzzle": "^7.3",
         "laravel/framework": "^8.0",
         "laravel/tinker": "^2.0",
         "laravel/ui": "3.0",
